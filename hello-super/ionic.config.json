@@ -1,0 +1,7 @@
+{
+  "name": "hello-super",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
